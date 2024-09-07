@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently learning **Full Stack Web Development Course**
 
-- 👨‍💻 All of my projects are available at [milankhaddar]((https://milankhaddar-0806.github.io/))
+- 👨‍💻 All of my projects are available at [milankhaddar]([https://milankhaddar-0806.github.io/])
 
 - 💬 Ask me about **React, JS, Python**
 
 - 📫 How to reach me **khaddarmilan08@gmail.com**
 
-- 📄 Know about my experiences [MY Website]((https://milankhaddar-0806.github.io/))
+- 📄 Know about my experiences [MY Website]([https://milankhaddar-0806.github.io/])
 
 - ⚡ Fun fact **I think I am Funny**
 
